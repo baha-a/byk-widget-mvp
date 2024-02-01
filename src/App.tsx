@@ -19,6 +19,7 @@ declare global {
     _env_: {
       RUUTER_API_URL: string;
       TIM_AUTHENTICATION_URL: string;
+      NOTIFICATION_NODE_URL: string;
       ORGANIZATION_NAME: string;
       TERMS_AND_CONDITIONS_LINK: string;
       OFFICE_HOURS: {
